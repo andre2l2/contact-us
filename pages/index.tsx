@@ -11,9 +11,9 @@ const Home: NextPage = () => {
 	return (
 		<PageContainer>
 			<Title />
-			<TextInput placeholder="Full Name" />
-			<TextInput placeholder="E-mail" />
-			<TextInput placeholder="Message" />
+			<TextInput placeholder="Full Name" type="text" />
+			<TextInput placeholder="E-mail" type="email" />
+			<TextInput placeholder="Message" type="text" />
 			<Button />
 			<SocualIcon facebook="#" instagram="#" twitter="#" />
 			<LinkTo text="hi@green.com" />
