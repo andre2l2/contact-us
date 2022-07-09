@@ -1,11 +1,11 @@
 .button {
-  width: 100%;
-  max-width: 400px;
-  height: 70px;
-  border-radius: 48px;
-  font-size: 24px;
-  background-color: #000000;
-  color: #ffffff;
-  border: none;
-  cursor: pointer;
+	width: 100%;
+	max-width: 370px;
+	height: 70px;
+	border-radius: 48px;
+	font-size: 24px;
+	background-color: #000000;
+	color: #ffffff;
+	border: none;
+	cursor: pointer;
 }
