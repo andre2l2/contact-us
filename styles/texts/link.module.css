@@ -1,0 +1,9 @@
+.link {
+	margin-top: 10px;
+}
+
+@media (min-width: 800px) {
+	.link {
+		display: none;
+	}
+}

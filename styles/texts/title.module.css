@@ -1,3 +1,11 @@
 .title {
-  font-family: "Playfair Display", serif;
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 50px;
+}
+
+@media (min-width: 800px) {
+	.title {
+		font-size: 80px;
+		font-weight: 400;
+	}
 }
